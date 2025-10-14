@@ -8,6 +8,8 @@ FERREIRA, J. A.; PALM, B. G.. Change Detection in SAR Images using Hypothesis Te
 
 PALM, B. G.; BAYER, F. M.; JAVADI, S.; VU, V.; PETTERSSON, M. I.. Inflated Rayleigh Regression Model for High Dynamic Magnitude SAR Image Modeling. IEEE Geoscience and Remote Sensing Letters, v. 21, p. 1-5, 2024.
 
+STEFANAN, A. A.; PALM, B. G.; BAYER, F. M.. Zero-Inflated Rayleigh Dynamic Model for Non-Negative Signals. IEEE Access, v. 12, p. 187099-187111, 2024.
+
 PALM, B. G.; BAYER, F. M. ; CINTRA, R. J.. Improved Point Estimation for the Rayleigh Regression Model. IEEE Geoscience and Remote Sensing Letters, v. 19, p. 1-4, 2022.
 
 PALM, B. G.; BAYER, F. M.; MACHADO, R.; PETTERSSON, M. I.; VU, V. T.; CINTRA, R. J.. Robust Rayleigh Regression Method for SAR Image Processing in Presence of Outliers. IEEE Transactions on Geoscience and Remote Sensing, v. 60, p. 1-12, 2022. 
