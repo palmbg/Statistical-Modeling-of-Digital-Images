@@ -25,3 +25,9 @@ PALM, B. G.; ALVES, D. I.; PETTERSSON, M. I.; VU, V.; MACHADO, R.; CINTRA, R. J.
 PALM, B. G.; BAYER, F. M.; CINTRA, R. J.; MACHADO, R.; PETTERSSON, M. I.. Rayleigh Regression Model for Ground Type Detection in SAR Imagery. IEEE Geoscience and Remote Sensing Letters, v. 16, p. 1660-1664, 2019.
 
 GONZALEZ, R.C.; WOODS, R.E.. Digital Image Processing. 4th Edition, Pearson Education, New York, p. 1022, 2018. 
+
+Useful References:
+
+KAY, S.M., 1993. Fundamentals of statistical signal processing: estimation theory. Prentice-Hall, Inc..
+KAY, S.M., 1998. Fundamentals of statistical signal processing: detection theory. Prentice-Hall, Inc..
+OLIVER, C. and QUEGAN, S., 2004. Understanding synthetic aperture radar images. SciTech Publishing.
